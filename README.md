@@ -1,1 +1,1 @@
-# C-R
+Entra y juega.
